@@ -20,7 +20,7 @@ To get an idea about the effectiveness of online education
 ## Dataset
   https://www.kaggle.com/datasets/mdmahmudulhasansuzan/students-adaptability-level-in-online-education
   
-### Here we Analyse Students Adaptability Level in Online Education In diffrent aspects.
+### Here we Analyse Students Adaptability Level in Online Education In Different aspect.
 
 
 ## Dataset Content
