@@ -95,13 +95,13 @@ The feature sets are:
 
 | Model | Accuracy Percentage | Time taken |
 | --- | --- | --- |
-| Logistic Regression | 70.86 % | 0.229 |
-| DecisionTree Classifier | 90.39 % | 0.023 |
-| RandomForest Classifier | 91.05 % | 0.687 |
-| KNeighbors Classifier | 79.47 % | 0.085 |
-| XGB Classifier | 91.39 % | 0.848 |
+| Logistic Regression | 70.86 % | 0.180 |
+| DecisionTree Classifier | 90.06 % | 0.319 |
+| RandomForest Classifier | 91.05 % | 0.578 |
+| KNeighbors Classifier | 79.47 % | 0.084 |
+| XGB Classifier | 91.39 % | 0.730 |
 
 ## Conclusion
-* Time taken is maximum for XGB Classifier and minimum for DecisionTree Classifier.
+* Time taken is maximum for XGB Classifier and minimum for KNeighbors Classifier.
 
-* XGB Classifier is the best model from among the models trained to predict the accurate result with an accuracy of 91.39 % and time taken to execute is 0.848.
+* XGB Classifier is the best model from among the models trained to predict the accurate result with an accuracy of 91.39 % and time taken to execute is 0.730.
